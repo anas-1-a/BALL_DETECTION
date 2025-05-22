@@ -32,3 +32,4 @@ numpy: For array operations.
 # HOW IT WORKS :
 ### Main.py:
 ![alt text](<explai how code main work.png>)
+https://github.com/anas-1-a/BALL_DETECTION/blob/main/f86b9bc3-9281-404e-a9a7-ec48b8fd66c2.png
