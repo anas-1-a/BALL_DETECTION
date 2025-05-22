@@ -31,5 +31,8 @@ numpy: For array operations.
 
 # HOW IT WORKS :
 ### Main.py:
-![alt text](<explai how code main work.png>)
 https://github.com/anas-1-a/BALL_DETECTION/blob/main/f86b9bc3-9281-404e-a9a7-ec48b8fd66c2.png
+
+### Arduino.ino:
+![image](https://github.com/user-attachments/assets/28eeb253-dd2a-4382-a19f-9eb1586266bd)
+
