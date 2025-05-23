@@ -31,10 +31,16 @@ numpy: For array operations.
 
 # HOW IT WORKS :
 ## Main.py: 
-### THIS HOW CODE MAIN.PY WORK
+
+
+### THIS HOW CODE MAIN.PY WORK :
+
 ![image](https://github.com/user-attachments/assets/1b8fff3e-836a-48c0-a733-b14cd712207c)
 
 ## Arduino.ino:
-### THIS HOW CODE ARDUINO.INO WORK
+
+
+### THIS HOW CODE ARDUINO.INO WORK :
+
 ![image](https://github.com/user-attachments/assets/28eeb253-dd2a-4382-a19f-9eb1586266bd)
 
