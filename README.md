@@ -28,7 +28,12 @@ opencv-python: For image processing and visualization.
 pyserial: For Arduino communication.
 numpy: For array operations.
 
-
+# Running the Project
+## 1. Start the Program
+Run the main script from the virtual environment:
+```bash 
+python main.py
+```
 # HOW IT WORKS :
 ## Main.py: 
 
